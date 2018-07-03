@@ -1,0 +1,3 @@
+[submodule "PyDynamic"]
+	path = PyDynamic
+	url = https://github.com/eichstaedtPTB/PyDynamic.git
