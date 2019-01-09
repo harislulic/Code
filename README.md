@@ -21,7 +21,7 @@ Whenever you want to get the latest changes, navigate into your local repository
 
 `$ git pull origin master`
 
-to get the latest version of this explanatory file and the [guides](guides/README.md) and/or
+to get the latest version of this explanatory file and the [coding conventions](conventions/README.md) and/or
 
 `$ git submodule update --remote --recursive`
 
@@ -43,7 +43,7 @@ All planned developments of the project's code and this repository you can find 
 
 ## Additional information
 
-Additional information around code writing and software development in the project you can find in the repository's [wiki](https://github.com/Met4FoF/Code/wiki) and in the [guides](guides/README.md).
+Additional information around code writing and software development in the project you can find in the repository's [wiki](https://github.com/Met4FoF/Code/wiki) and in the [coding conventions](conventions/README.md).
 
 ## Data management
 

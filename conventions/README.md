@@ -5,10 +5,10 @@ to understand the way we are collaborating on code writing and software
 development. We will constantly work on it and extend it as the project evolves,
 questions arise and solutions are provided.
 
-## Coding guidelines
-To ensure equally high code quality across all project related code we provide
-coding guidelines. Those guidelines are collected in [coding_guidelines.md
-](coding_guidelines.md). They are comprised of proven best practices to produce
+## Coding conventions
+To ensure equally high code quality across the project we provide coding
+conventions. Those conventions are collected in [coding_conventions.md
+](coding_conventions.md). They are comprised of proven best practices to produce
 easily readable and usable production code.
 
 ## Support on coding
@@ -36,8 +36,8 @@ Basically there are two ways of contributing code.
     by yourself completely seperated from the project. Whenever a revision of
     your code is ready to be published, you inform the [project's software
     development coordinator](https://github.com/BjoernLudwigPTB). After checking
-    the code's compliance with the [project's coding guidelines
-    ](coding_guidelines.md) your code will then be published as part of the
+    the code's compliance with the [project's coding conventions
+    ](coding_conventions.md) your code will then be published as part of the
     super-project [*Met4FoF/Code*](../README.md).
 
 1. Use an internal **GitHub** repository in the [super-project](#super-project)
@@ -48,8 +48,8 @@ Basically there are two ways of contributing code.
     push your code directly into this repository. Whenever a revision of your
     code is ready to be published, you inform the [project's software
     development coordinator](https://github.com/BjoernLudwigPTB). After checking
-    the code's compliance with the [project's coding guidelines
-    ](coding_guidelines.md) your code will then be published as part of the
+    the code's compliance with the [project's coding conventions
+    ](coding_conventions.md) your code will then be published as part of the
     super-project [*Met4FoF/Code*](../README.md).
 
 ## Glossary
