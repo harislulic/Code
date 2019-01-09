@@ -30,7 +30,7 @@ repositories.
 
 Basically there are two ways of contributing code.
 
-1. Add an external **GitHub** repository to the [super-project](#super-project)
+1.  Add an external **GitHub** repository to the [super-project](#super-project)
 
     This option lets you manage all your code in a **GitHub** repository owned
     by yourself completely seperated from the project. Whenever a revision of
@@ -40,7 +40,7 @@ Basically there are two ways of contributing code.
     ](coding_conventions.md) your code will then be published as part of the
     super-project [*Met4FoF/Code*](../README.md).
 
-1. Use an internal **GitHub** repository in the [super-project](#super-project)
+1.  Use an internal **GitHub** repository in the [super-project](#super-project)
 
     This option lets you use a repository set up and maintained by the
     [project's software development coordinator
@@ -57,15 +57,15 @@ Basically there are two ways of contributing code.
 This glossary's purpose is to create consensus about all software development
 related terms in this guide.
 
-* ### internal
-Everything inside the scope of the **GitHub** organization [*Met4FoF*
-](https://github.com/Met4FoF) is denoted as *internal*.
+*   ### internal
+    Everything inside the scope of the **GitHub** organization [*Met4FoF*
+    ](https://github.com/Met4FoF) is denoted as *internal*.
 
-* ### external
-Everything outside the scope of the **GitHub** organization [*Met4FoF*
-](https://github.com/Met4FoF) is denoted as *external*.
+*   ### external
+    Everything outside the scope of the **GitHub** organization [*Met4FoF*
+    ](https://github.com/Met4FoF) is denoted as *external*.
 
-* ### super-project
-The **GitHub** repository [*Code*](../README.md) of the
-**GitHub** organization [*Met4FoF*](https://github.com/Met4FoF) is denoted as
-*super-project*.
+*   ### super-project
+    The **GitHub** repository [*Code*](../README.md) of the
+    **GitHub** organization [*Met4FoF*](https://github.com/Met4FoF) is denoted as
+    *super-project*.
