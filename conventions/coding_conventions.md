@@ -4,17 +4,25 @@ and will constantly be extended as the project evolves and more code is written.
 
 ## Design
 
-1.  There should be no TODO-statements in production code.
+1.  All lines in code files should not exeed 80 characters.
+
+1.  Names for modules, classes, methods and functions should be speaking and
+    explicitly represent the content.
+
+1.  The use of global variables should be avoided where possible.
+
+1.  There should be no *TODO*-statements in production code.
 
 1.  There should be no out commented code in production code.
 
+1.  *CI/CD* should be implemented, if applicable.
 
 ## Documentation
 
 1.  All documentation should be provided in English.
 
 1.  A first overview of what the code in a repository does should be provided
-    inside a `README.md`
+    inside a `README.md`.
 
 1.  All parts of the public interface of modules, classes, methods and functions
     should provide detailed information in their headers about inputs, outputs
