@@ -48,3 +48,36 @@ and will constantly be extended as the project evolves and more code is written.
 
 1.  It is highly recommended that version number and release date be included in
     every release.
+
+## Source code management
+
+1.  Git should be used during the whole process of software development for the
+project.
+
+1.  Commit early and often and publish your code as often as applicable to the
+open-source repository of the project.
+
+1.  Commit messages should be formatted as follows:
+    *   First line is 50 characters or less and contains a brief description of
+    the commit. It starts with a capital letter and does not end with a period.
+    It finishes the sentence: *"If applied, this commit will" **your commit
+    message***
+    *   If additional explanation is needed:
+        *   Second line is a blank line.
+        *   Remaining text should be wrapped at 72 characters and contains a
+        detailed description of the commit.
+
+    These conventions are based on different community sources basically stating
+    the same:
+    *   [Tim Pope (2008)](
+    https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
+    )
+    *   [Chris Beams (2014)](https://chris.beams.io/posts/git-commit/)
+    *   [Stephen Amaza (2017)](
+    https://medium.com/@steveamaza/how-to-write-a-proper-git-commit-message-e028865e5791
+    )
+    *   [https://stackoverflow.com/questions/2290016/](
+    https://stackoverflow.com/questions/2290016/git-commit-messages-50-72-formatting
+    )
+
+    For examples look at the commit messages of this repository.
